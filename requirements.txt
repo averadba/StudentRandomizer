@@ -1,3 +1,2 @@
-random
-streamlit
-streamlit_tags
+streamlit==1.11.0
+streamlit_tags==1.2.8
