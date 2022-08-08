@@ -10,7 +10,7 @@ footer {visibility: hidden;}
 
 
 st.title("Student Randomizer")
-st.header("by: A. Vera")
+st.write("by: A. Vera")
 st.write("Use this app to randomly assign students in your classroom into teams.")
 st.write('Type the names of your students in the provided space below, up-to 100 students.')
 
